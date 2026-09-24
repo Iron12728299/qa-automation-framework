@@ -1,0 +1,5 @@
+QA Automation Framework
+Selenium
+Api
+Sql
+git
